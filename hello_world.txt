@@ -1,1 +1,1 @@
-some text as test
+some text as tests
